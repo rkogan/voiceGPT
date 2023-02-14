@@ -1,16 +1,13 @@
-# voicechat
+## VoiceGPT
 
-A new Flutter project.
+This is a Flutter project that uses voice-to-text, calls GPT3, and uses text-to-voice to speak the results.
 
-## Getting Started
+Runs on Android, iOS, and Chrome.
 
-This project is a starting point for a Flutter application.
+## Demo Link (Chrome)
 
-A few resources to get you started if this is your first Flutter project:
+https://voicegpt-f20d0.web.app/
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Setup'
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone this repo and run `npm install`.
