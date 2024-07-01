@@ -123,7 +123,7 @@ class _HomePageState extends State<HomePage> {
                     "I am a highly intelligent question answering bot.\n\nQ: $_spokenText\nA: ",
                 "max_tokens": 256,
                 "temperature": 0.7,
-                "model": "text-davinci-003",
+                "model": "gpt-3.5-turbo-instruct",
                 "frequency_penalty": 0,
                 "presence_penalty": 0,
                 "best_of": 1,
