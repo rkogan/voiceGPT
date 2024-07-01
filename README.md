@@ -8,7 +8,7 @@ Runs on Android, iOS, and Chrome.
 
 https://voicegpt-f20d0.web.app/
 
-## Setup'
+## Setup
 
 Clone this repo and run `npm install`.
 
